@@ -1,2 +1,3 @@
-Flyordie Folder
-Newrow login
+> #### CODE JOURNAL 
+>
+> - 01-09-2020:ORGANIZED GIT REPO

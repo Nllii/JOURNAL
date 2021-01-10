@@ -36,3 +36,13 @@ debug
  create mode 100644 push.sh
  create mode 100644 push.txt
 debug
+[main dbb1a4e] okay
+ 10 files changed, 16 insertions(+), 10 deletions(-)
+ rename {flyordie-codebase => Flyordie}/.DS_Store (100%)
+ rename {flyordie-codebase => Flyordie}/.gitattributes (100%)
+ rename {flyordie-codebase => Flyordie}/README.md (100%)
+ rename {flyordie-codebase => Flyordie}/flyordie_code.js (100%)
+ rename {flyordie-codebase => Flyordie}/signin.py (100%)
+ rename {newrow_login => newrow login}/.DS_Store (100%)
+ rename {newrow_login => newrow login}/newrow.py (100%)
+debug
