@@ -1,7 +1,7 @@
 #!/bin/bash
 #1. Create ProgressBar function
 #//stackoverflow.com/questions/238073/how-to-add-a-progress-bar-to-a-shell-script
-rightnow_date=$(date +"%m/%d/%Y "at" %H-%M")
+#rightnow_date=$(date +"%m/%d/%Y "at" %H-%M")
 
 
 progress-bar() {
@@ -51,7 +51,6 @@ progress-bar 3
 git_push() {
 echo "summary of today code:"
 vim README.md
-echo "# $rightnow_date" >> README.md
 echo "debug" >> push.txt
 progress-bar 4
 if [[ -f "push.txt" ]]
