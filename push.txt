@@ -46,3 +46,6 @@ debug
  rename {newrow_login => newrow login}/.DS_Store (100%)
  rename {newrow_login => newrow login}/newrow.py (100%)
 debug
+[main 4c5a8c5] okay
+ 2 files changed, 13 insertions(+), 2 deletions(-)
+debug
