@@ -55,3 +55,18 @@ debug
 [main b4dd05d] okay
  2 files changed, 5 insertions(+), 2 deletions(-)
 debug
+[main d70e6a9] okay
+ 16 files changed, 3134 insertions(+)
+ create mode 100644 Jobsearch-to-jupyter/.DS_Store
+ create mode 100644 Jobsearch-to-jupyter/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+ create mode 100644 Jobsearch-to-jupyter/Untitled.ipynb
+ create mode 100644 Jobsearch-to-jupyter/data/filter_list.json
+ create mode 100644 Jobsearch-to-jupyter/data/jobfunnel.log
+ create mode 100644 Jobsearch-to-jupyter/data/jobs_2021-01-11.pkl
+ create mode 100644 Jobsearch-to-jupyter/data/jobs_2021-01-12.pkl
+ create mode 100644 Jobsearch-to-jupyter/joblinks.csv
+ create mode 100644 Jobsearch-to-jupyter/master_list.csv
+ create mode 100644 dataset/.DS_Store
+ create mode 100644 skynet_links.txt
+ create mode 100644 up_the_sky.py
+debug
